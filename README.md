@@ -11,9 +11,7 @@
 ---
 
 ## 🛠️ Tools & Frameworks  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-[![My Skills](https://skillicons.dev/icons?i=spring,react,docker,git,maven,idea,jquery,mongodb,mysql,postgres,postman,vscode,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,maven,idea,vscode,docker,git,jquery,postman,mongodb,mysql,postgres,tailwind,figma)](https://skillicons.dev)
 
 ---
 
