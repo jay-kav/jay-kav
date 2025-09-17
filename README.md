@@ -23,7 +23,7 @@ I’m currently working on a few cool projects. Details coming soon...
 ---
 
 ## 📊 GitHub Stats  
-![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-kav&show_icons=true&theme=radical) 
+![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-kav&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-kav&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
