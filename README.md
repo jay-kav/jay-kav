@@ -1,14 +1,18 @@
-# 👋 Hey, I'm Jamie  
+# Jamie Kavanagh  
 
 💻 **Software Engineer** from **Ireland**  
-🚀 Passionate about building scalable software and exploring the hacker side of tech.  
+🚀 Passionate about building scalable software.  
 
 ---
 
-## ⚡ Tech Stack  
+## 🖥️ Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+
+---
+
+## 🛠️ Tools & Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
@@ -35,5 +39,3 @@ I’m currently working on a few cool projects. Details coming soon...
 ---
 
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
-
----
