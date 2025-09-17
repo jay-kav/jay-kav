@@ -29,5 +29,10 @@ I’m currently working on a few cool projects. Details coming soon...
 
 ## 🌐 Connect with Me  
 [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)  
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:yourname@example.com)  
+
 
 ---
