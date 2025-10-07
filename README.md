@@ -3,7 +3,7 @@
 💻 **Software Engineer** from **Ireland**  
 🚀 Passionate about building scalable software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://jamiekavanagh.com/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jamiekavanagh.com/) 
 ---
 
 ## 🖥️ Languages  
